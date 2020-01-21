@@ -4,7 +4,7 @@ This project was made for the project chosen by Rocketseat on its 10th Omnistack
 
 On the web version you are able to register yourself using your Github username, Technologies you use and location (which will be retrieved by the browser)
 
-## [See it live here!](https://poowoo-devradar.netlify.com/)
+## [See it live here! - Acesse agora!](https://poowoo-devradar.netlify.com/)
 
 ## Preview
 ![preview gif](https://github.com/PooWoox/so10-devradar-react/blob/master/dev_radar_preview.gif?raw=true)
