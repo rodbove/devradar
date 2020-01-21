@@ -8,3 +8,5 @@ On the web version you are able to register yourself using your Github username,
 
 ## Preview
 ![preview gif](https://github.com/PooWoox/so10-devradar-react/blob/master/dev_radar_preview.gif?raw=true)
+
+Credit: <a target="_blank" href="https://icons8.com.br/icons/set/radar">Radar icon</a> by <a target="_blank" href="https://icons8.com.br">Icons8</a>
